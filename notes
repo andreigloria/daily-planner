@@ -1,0 +1,20 @@
+> dom manipulation
+> advanced javascript
+> integration of third party API's
+
+> dynsmically updated HTML and CSS powered by jQuery
+
+> add important events to a daily planner to manage time effectively
+
+ACCEPTANCE CRITERIA
+
+> display the current day at the top of the calendar when a user opens the planner
+
+> present timeblocks for standard business hours when the user scrolls down.
+> color-code each timeblock based on past, present, and future when the timeblock is viewed.
+(e.g. timeblock at local time is highlighted a different colour, when event passed local time it is highlighted another different colour)
+> allow a user to enter an event when they click a timeblock.
+> save the event in local storahe when the save button is clickedin that timeblock
+(when refreshed and not saved, the event disappears)
+> persist events between refreshes of a page
+(when event is saved and refreshed, the event stays)
